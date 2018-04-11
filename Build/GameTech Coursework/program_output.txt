@@ -1,0 +1,74 @@
+[11:40:06] Loading Shader:
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexBasic.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragSuperSample.glsl
+[11:40:06]     -> Linking Shader: Success!
+[11:40:06] 
+[11:40:06] Loading Shader:
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexShadow.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/Common/EmptyFragment.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechGeomShadow.glsl
+[11:40:06]     -> Linking Shader: Success!
+[11:40:06] 
+[11:40:06] Loading Shader:
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexFull.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragForwardRender.glsl
+[11:40:06]     -> Linking Shader: Success!
+[11:40:06] 
+[11:40:06] Loading Shader:
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointVertex.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointFragment.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointGeometry.glsl
+[11:40:06]     -> Linking Shader: Success!
+[11:40:06] 
+[11:40:06] Loading Shader:
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Vertex.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/LineGeometry.glsl
+[11:40:06]     -> Linking Shader: Success!
+[11:40:06] 
+[11:40:06] Loading Shader:
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/VertexColOnly.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[11:40:06]     -> Linking Shader: Success!
+[11:40:06] 
+[11:40:06] Loading Shader:
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextVertex.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextFragment.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextGeometry.glsl
+[11:40:06]     -> Linking Shader: Success!
+[11:40:06] 
+[11:40:06] Loading Shader:
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexPicker.glsl
+[11:40:06]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragScreenPicker_nsightfix.glsl
+[11:40:06]     -> Linking Shader: Success!
+[11:40:06] 
+[11:40:06] Loading Mesh: ../../Data/Meshes/cube.obj
+[11:40:06] 
+[11:40:06] Loading Mesh: ../../Data/Meshes/sphere.obj
+[11:40:06] 
+[11:40:06] [SceneManager] - Enqueued scene: "GameTech #1 - Sandbox!"
+[11:40:06] 
+[11:40:06] This is a log entry - It will printed to the console, on screen log and <project_dir>program_output.txt
+[11:40:06] [SceneManager] - Scene switched to: "GameTech #1 - Sandbox!"
+[11:40:06] [SceneManager] - Enqueued scene: "GameTech #2 - Ballpit"
+[11:40:06] [SceneManager] - Enqueued scene: "GameTech #3 - SoftBody"
+[11:40:41] [SceneManager] - Exiting scene -
+[11:40:41] 
+[11:40:41] This is a log entry - It will printed to the console, on screen log and <project_dir>program_output.txt
+[11:40:41] [SceneManager] - Scene switched to: "GameTech #2 - Ballpit"
+[11:40:55] [SceneManager] - Exiting scene -
+[11:40:55] 
+[11:40:55] This is a log entry - It will printed to the console, on screen log and <project_dir>program_output.txt
+[11:40:55] [SceneManager] - Scene switched to: "GameTech #3 - SoftBody"
+[11:41:30] [SceneManager] - Exiting scene -
+[11:41:30] 
+[11:41:30] This is a log entry - It will printed to the console, on screen log and <project_dir>program_output.txt
+[11:41:30] [SceneManager] - Scene switched to: "GameTech #1 - Sandbox!"
+[11:41:36] [SceneManager] - Exiting scene -
+[11:41:36] 
+[11:41:36] This is a log entry - It will printed to the console, on screen log and <project_dir>program_output.txt
+[11:41:36] [SceneManager] - Scene switched to: "GameTech #2 - Ballpit"
+[11:41:37] [SceneManager] - Exiting scene -
+[11:41:37] 
+[11:41:37] This is a log entry - It will printed to the console, on screen log and <project_dir>program_output.txt
+[11:41:37] [SceneManager] - Scene switched to: "GameTech #3 - SoftBody"
